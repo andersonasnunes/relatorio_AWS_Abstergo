@@ -55,3 +55,8 @@ relatorio-implementacao-servicos-aws/
 │
 └── figma/
     └── link-figma.txt
+
+```
+### Observação 
+
+O gráfico comparativo evidencia a redução significativa dos custos operacionais após a migração para a AWS, destacando principalmente a economia com servidores físicos e manutenção de infraestrutura.
