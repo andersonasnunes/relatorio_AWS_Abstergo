@@ -50,11 +50,8 @@ relatorio-implementacao-servicos-aws/
 │
 ├── anexos/
 │   ├── planilha-comparacao-custos-aws.xlsx
-│   ├── grafico-comparativo-antes-depois-aws.png
-│   └── diagrama-arquitetura-aws.png
-│
-└── figma/
-    └── link-figma.txt
+│   ├── Tabela de comparação de custos (antes e depois da migração)
+│   └── grafico-comparativo-antes-depois-aws
 
 ```
 ### Observação 
